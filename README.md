@@ -12,8 +12,7 @@
 If played correctly the player who goes first should win everytime. You get to go first so you have a chance, but if you mess up then gg ez.
 
 ## Python Program
-This is the first project I created with Python. Created in 2014, this was the first project I did in Python.
-The concept of this game was taken from a 'salt packet' strategy game my grandpa taught me. 
+This is the first project I did while learning Python. The concept of this game was taken from a 'salt packet' strategy game my grandpa taught me. 
 
 ## APP
 This is the implementation of my Python Program into an android app.
