@@ -132,6 +132,10 @@ def RulesPrompt():
 
 
 def ComputerMove():
+    
+    # This was how I first thought the best way to create an AI for this game was. 
+    # I have improved this AI in the genetic-algorithm repository. 
+    
     global BoardValue
     # The global keyword brings the global variable "BoardValue" into the function
     
